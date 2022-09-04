@@ -1,0 +1,234 @@
+[
+	{
+		"id": 0,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/asd2.png",
+		"title": "Azuki.",
+		"price": 731.45,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 2,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/asd.png",
+		"title": "Dribblie",
+		"price": 738.97,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 3,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/HAPEBEAST_Prime__1_-removebg-preview.png",
+		"title": "CryptoPunks",
+		"price": 128.346,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 4,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/asd.png",
+		"title": "Flyfish Club",
+		"price": 468.357,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 5,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/HAPEBEAST_Genesis__1_-removebg-preview.png",
+		"title": "Bored Ape Yacht Clubv",
+		"price": 442.86,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 6,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/NFT__1_-removebg-preview-removebg-preview.png",
+		"title": "CryptoPunks",
+		"price": 167.54,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 7,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/NFT__1_-removebg-preview.png",
+		"title": "Mutant Ape Yacht Club",
+		"price": 1345.66,
+		"category": 0,
+		"rating": 6
+	},
+	{
+		"id": 8,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/NFT-removebg-preview-removebg-preview.png",
+		"title": "Doodles",
+		"price": 214.67,
+		"category": 0,
+		"rating": 5
+	},
+	{
+		"id": 9,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/NFT-removebg-preview.png",
+		"title": "Meebits",
+		"price": 987.324,
+		"category": 1,
+		"rating": 2
+	},
+	{
+		"id": 10,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/Digimental-removebg-preview.png",
+		"title": " Crypto Baristas",
+		"price": 642.24,
+		"category": 1,
+		"rating": 4
+	},
+	{
+		"id": 11,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/OpenSea__the_largest_NFT_marketplace-removebg-preview.png",
+		"title": "Kibatsu Mecha",
+		"price": 753.34,
+		"category": 1,
+		"rating": 6
+	},
+	{
+		"id": 12,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/HAPEBEAST_Prime-removebg-preview.png",
+		"title": "Moonbirds",
+		"price": 844.356,
+		"category": 1,
+		"rating": 5
+	},
+	{
+		"id": 13,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/_hapebeastgang_shared_a_photo_on_Instagram___Obsidian_HAPE_3_5____%EF%B8%8F__hape__hapebeastgang____Nov_23__2021_at_1_22pm_UTC-removebg-preview.png",
+		"title": "Rich Cats Nation",
+		"price": 632.345,
+		"category": 1,
+		"rating": 2
+	},
+	{
+		"id": 14,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/HAPE_on_Instagram___Belly_had_a_huge_impact_on_HAPEBEAST_s_style__perception_of_shots_and_use_of_monochrome___hypewilliams_is_a_God__We_d_love_to_meet_him_one__-removebg-preview.png",
+		"title": "Nouns",
+		"price": 310.345,
+		"category": 1,
+		"rating": 2
+	},
+	{
+		"id": 15,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/9883_-_Bored_Ape_Yacht_Club___OpenSea-removebg-preview.png",
+		"title": "Claylings",
+		"price": 476.23,
+		"category": 1,
+		"rating": 4
+	},
+	{
+		"id": 16,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/Instagram-removebg-preview.png",
+		"title": "MekaVerse",
+		"price": 799.134,
+		"category": 1,
+		"rating": 6
+	},
+	{
+		"id": 17,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/NFT__1_-removebg-preview.png",
+		"title": " Art Blocks",
+		"price": 664.532,
+		"category": 1,
+		"rating": 5
+	},
+	{
+		"id": 18,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/9b92c4f9-f8b4-44ba-9b77-25f8a923c3a5-removebg-preview-removebg-preview.png",
+		"title": "CloneX",
+		"price": 185.666,
+		"category": 2,
+		"rating": 2
+	},
+	{
+		"id": 19,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/HAPEBEAST_Genesis-removebg-preview.png",
+		"title": "Silks",
+		"price": 563.12,
+		"category": 2,
+		"rating": 2
+	},
+	{
+		"id": 20,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/752b8890-acb6-486d-a8a2-fca95d64c4d6-removebg-preview.png",
+		"title": "Cryptoon Goonz",
+		"price": 155.22,
+		"category": 2,
+		"rating": 4
+	},
+	{
+		"id": 21,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/Digimental__1_-removebg-preview.png",
+		"title": "Fight Punks",
+		"price": 70.234,
+		"category": 2,
+		"rating": 6
+	},
+	{
+		"id": 22,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/a00ed6f0-96b3-491e-8471-c0b71eff3dc8-removebg-preview.png",
+		"title": "Sphere Art",
+		"price": 99.88,
+		"category": 2,
+		"rating": 5
+	},
+	{
+		"id": 23,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/Pin_de_Gabriele_Kurapkaite_em_%E5%8D%A1%E9%80%9AIP_em_2022___Imagens_aleat%C3%B3rias__Fotos__Papel_de_parede_celular-removebg-preview.png",
+		"title": "Thunder NFT",
+		"price": 125.12,
+		"category": 3,
+		"rating": 2
+	},
+	{
+		"id": 24,
+		"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWYQaNCoQIhuiR6S5xXLrSh8151PSnoq6e3RhD3bHmV238-rr6ooDorURN3YtkNbwBBU&usqp=CAU",
+		"title": "Bling Bits",
+		"price": 310.078,
+		"category": 3,
+		"rating": 2
+	},
+	{
+		"id": 25,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/752b8890-acb6-486d-a8a2-fca95d64c4d6-removebg-preview.png",
+		"title": "Nova Auroras",
+		"price": 190.79,
+		"category": 3,
+		"rating": 4
+	},
+	{
+		"id": 26,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/HAPEBEAST_Prime__2_-removebg-preview.png",
+		"title": "Crypto Felines",
+		"price": 700.76,
+		"category": 3,
+		"rating": 6
+	},
+	{
+		"id": 27,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/616659e6-b13c-413f-a964-d9e3aee999cd-removebg-preview.png",
+		"title": "Dose of Art",
+		"price": 99.13,
+		"category": 3,
+		"rating": 5
+	},
+	{
+		"id": 28,
+		"imageUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/4xac/c5FLPTE7X/HAPEBEAST_Genesis__2_-removebg-preview.png",
+		"title": "Butterfly Dust",
+		"price": 185.31,
+		"category": 3,
+		"rating": 6
+	},
+	{
+		"id": 29,
+		"imageUrl": "https://img.seadn.io/files/90e4e211341336a3466e8770991cfe10.png?fit=max&w=600",
+		"title": "Crypto Diamonds",
+		"price": 563.436,
+		"category": 3,
+		"rating": 2
+	}
+]

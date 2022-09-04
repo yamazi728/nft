@@ -1,0 +1,35 @@
+.img-box {
+	height: 200px;
+}
+.dw-wrapper {
+	margin-top: 50px;
+	display: flex;
+	// height: 100vh;
+	justify-content: center;
+	align-items: center;
+}
+.container-images {
+	min-width: 500px;
+}
+.container-images {
+	min-width: 1200px;
+	height: 300px;
+	display: flex;
+	// border: 1px solid #d6d6d6;
+	// padding: 20px;
+}
+.img-box {
+	flex-grow: 1;
+	background-size: 600px 200px;
+	background-position: center;
+	background-repeat: no-repeat;
+	transition: 1s;
+	// черно белое
+	// filter: grayscale(1);
+}
+.img-box:hover {
+	background-size: 400px 300px;
+	flex-grow: 5;
+	filter: grayscale(0);
+	opacity: 1;
+}

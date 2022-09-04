@@ -1,0 +1,20 @@
+@import './libs/normalize';
+@import 'libs/variables';
+@import './components/all';
+.wrapper {
+	width: calc(100vw - 100px);
+	max-width: 1440px;
+	width: 100%;
+	margin: 0 auto;
+	background: #2e424d;
+	// background: #46a094;
+}
+.content {
+	padding: 40px 0;
+
+	background: #2e424d;
+}
+.container {
+	width: $container-width;
+	margin: 0 auto;
+}

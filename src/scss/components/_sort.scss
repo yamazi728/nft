@@ -1,0 +1,58 @@
+@import '../libs/variables';
+
+.sort {
+	position: relative;
+	&__label {
+		display: flex;
+		align-items: center;
+
+		svg {
+			margin-right: 8px;
+			color: #98dad9;
+		}
+
+		b {
+			margin-right: 8px;
+			color: #98dad9;
+		}
+
+		span {
+			color: #eae;
+			border-bottom: 1px dashed #eae;
+			cursor: pointer;
+		}
+	}
+
+	&__popup {
+		position: absolute;
+		right: 0;
+		margin-top: 15px;
+		background: #98dad9;
+		box-shadow: 0px 5px 15px #2e424d;
+		border-radius: 10px;
+		overflow: hidden;
+		padding: 10px 0;
+		width: 160px;
+
+		ul {
+			overflow: hidden;
+			li {
+				padding: 12px 20px;
+				cursor: pointer;
+
+				&.active,
+				&:hover {
+					// background: rgba(254, 95, 30, 0.05);
+					background: #5b8291;
+				}
+
+				&.active {
+					font-weight: bold;
+					color: #eae;
+				}
+			}
+		}
+	}
+}
+
+//  #2e424d

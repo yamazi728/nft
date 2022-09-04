@@ -1,0 +1,63 @@
+@import '../libs/variables';
+
+.categories {
+	@media all and (max-width: 750px) {
+		max-width: 550px;
+		overflow: scroll;
+	}
+	@media all and (max-width: 640px) {
+		max-width: 450px;
+	}
+	@media all and (max-width: 550px) {
+		max-width: 350px;
+	}
+	@media all and (max-width: 450px) {
+		max-width: 250px;
+	}
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		li {
+			background: #5b8291;
+			padding: 13px 30px;
+			border-radius: 30px;
+			margin-right: 10px;
+			font-weight: bold;
+			cursor: pointer;
+			transition: background-color 0.1s ease-in-out;
+			// @include noselect();
+			border: 1px solid #eaebed;
+			border-radius: 17px;
+			color: #eaebed;
+
+			&:hover {
+				// background-color: #2e424d;
+
+				background: linear-gradient(
+					90deg,
+					#69eacb 0%,
+					#d6d1f1 40.57%,
+					#eaccf8 48%,
+					#6654f1 100%
+				);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
+				text-fill-color: transparent;
+			}
+
+			&:active {
+				background-color: black;
+			}
+
+			&.active {
+				background: linear-gradient(180deg, #98dad9);
+
+				color: #fff;
+			}
+		}
+	}
+}
+// border-radius: 17px;
